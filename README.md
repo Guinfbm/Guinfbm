@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Olá! Sou um estudante apaixonado por tecnologia, atualmente no 2º período de Análise e Desenvolvimento de Sistemas. Este portfólio é um reflexo da minha jornada de aprendizado em constante evolução. Aqui, você encontrará os projetos que estou desenvolvendo enquanto mergulho no universo da programação, banco de dados, lógica e soluções tecnológicas. Cada linha de código representa um desafio superado e um novo conhecimento adquirido. Estou no início da estrada, mas com muita dedicação, curiosidade e vontade de transformar ideias em realidade.
+Olá! Sou Guilhemre tenho 21 anos, estudante apaixonado por tecnologia, jogos, animangas e quadrinhos, atualmente no 2º período de Análise e Desenvolvimento de Sistemas do IFPE. Estou no início da estrada, mas com muita dedicação, curiosidade e vontade de transformar ideias em realidade.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
