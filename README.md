@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front End`**
 
-Olá! Sou Guilhemre tenho 21 anos, estudante apaixonado por tecnologia, jogos, animangas e quadrinhos, atualmente no 2º período de Análise e Desenvolvimento de Sistemas do IFPE. Estou no início da estrada, mas com muita dedicação, curiosidade e vontade de transformar ideias em realidade.
+Olá! Sou Guilhemre tenho 22 anos, estudante apaixonado por tecnologia, jogos, animangas e quadrinhos, atualmente no 2º período de Análise e Desenvolvimento de Sistemas do IFPE. Estou no início da estrada, mas com muita dedicação, curiosidade e vontade de transformar ideias em realidade.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
