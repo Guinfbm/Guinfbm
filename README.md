@@ -14,32 +14,6 @@ Olá! Sou Guilhemre tenho 22 anos, estudante apaixonado por tecnologia, jogos, a
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<!-- Linguagens mais usadas -->
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=guinfbm&show_icons=true&locale=en&layout=compact&bg_color=5d4464&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" 
-    alt="guinfbm" 
-  />
-</p>
-
-<!-- Estatísticas do GitHub -->
-<p> 
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=guinfbm&show_icons=true&locale=en&bg_color=5d4464&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" 
-    alt="guinfbm" 
-  />
-</p>
-
-<!-- Streak stats -->
-<p>
-  <img 
-    align="center" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=guinfbm&background=5d4464&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" 
-    alt="guinfbm" 
-  />
-</p>
 
 
 
