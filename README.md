@@ -18,15 +18,13 @@ Olá! Sou Guilhemre tenho 22 anos, estudante apaixonado por tecnologia, jogos, a
 
 📊 Estatísticas
 <br>
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guinfbm&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guinfbm&show_icons=true&locale=en&layout=compact" alt="guinfbm" /></p>
 
 
 
