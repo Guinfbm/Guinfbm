@@ -17,15 +17,23 @@ Olá! Sou Guilhemre tenho 22 anos, estudante apaixonado por tecnologia, jogos, a
 <br>
 
 📊 Estatísticas
-<br>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guinfbm&show_icons=true&locale=en&layout=compact" alt="guinfbm" /></p>
-
 
 
 
