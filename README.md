@@ -22,7 +22,5 @@ Olá! Sou Guilhemre tenho 22 anos, estudante apaixonado por tecnologia, jogos, a
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Yuriportf/Yuriportf/output/snake.svg" alt="Snake animation" />
-</div>
+
 
