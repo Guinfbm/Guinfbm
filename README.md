@@ -20,17 +20,9 @@
 <!-- ===================== SOBRE MIM ===================== -->
 <div align="center">
 
-<h2>👨‍💻 Sobre mim</h2>
-
-<p>
-🎓 Cursando <b>Análise e Desenvolvimento de Sistemas</b> no <b>IFPE</b> (Recife/PE) — 4º período, formatura prevista para 2027 🎓<br/><br/>
-🎮 Fora do código: <b>jogos</b>, <b>animes/mangás</b> e <b>quadrinhos</b> 🎮
-</p>
-
-<p>
-<i>Estou no início da estrada, mas com muita dedicação, curiosidade<br/>e vontade de transformar ideias em realidade.</i>
-</p>
-
+<div align="center">
+  <img src="sobre-mim.svg" width="100%" alt="Sobre mim: cursando Análise e Desenvolvimento de Sistemas no IFPE (Recife/PE), 4º período, formatura prevista para 2027. Fora do código: jogos, animes/mangás e quadrinhos." />
+</div>
 </div>
 
 <img width="100%" alt="divisor" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
@@ -111,7 +103,7 @@
 <img width="100%" alt="divisor" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 <!-- Fogo animado: o arquivo fogo.svg precisa estar na raiz do repositório Guinfb/Guinfb -->
-<img src="fogo.svg" alt="Fogueira animada" width="100" />
+<img src="fogo.svg" alt="Fogueira animada" width="300" />
 
 <p>⭐ <i>Curtiu algum projeto? Deixe uma estrela, ela me motiva a continuar!</i></p>
 
