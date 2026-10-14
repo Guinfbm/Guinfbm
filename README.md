@@ -111,7 +111,7 @@
 <img width="100%" alt="divisor" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
 
 <!-- Fogo animado: o arquivo fogo.svg precisa estar na raiz do repositório Guinfb/Guinfb -->
-<img src="https://raw.githubusercontent.com/Guinfb/Guinfb/main/fogo.svg" alt="Fogueira animada" width="100" />
+<img src="fogo.svg" alt="Fogueira animada" width="100" />
 
 <p>⭐ <i>Curtiu algum projeto? Deixe uma estrela, ela me motiva a continuar!</i></p>
 
